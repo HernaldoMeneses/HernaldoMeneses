@@ -16,11 +16,10 @@
 <table align="left">
         <td><h1>./HernaldoMeneses</h1></td>       
 </table>
-<hr></hr>
 <table align="right">
          <td><h1>./HernaldoMeneses</h1></td>       
 </table>
-<hr></hr>
+
 
 <!---
 HernaldoMeneses/HernaldoMeneses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
