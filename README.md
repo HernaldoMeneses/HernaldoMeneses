@@ -24,7 +24,7 @@
 
 <table align="center">
      <tr>
-        <h1 align="center"> /--/--/--/--/./HernaldoMeneses</h1>
+        <h1 align="center">./HernaldoMeneses</h1>
     </tr>
 </table>
 
