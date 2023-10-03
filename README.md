@@ -39,7 +39,7 @@
 
 <table align="center">
      <tr>
-        <h1 align="center">./HernaldoMeneses</h1>
+        <h2 align="center">./HernaldoMeneses</h2>
     </tr>
 </table>
 
@@ -54,7 +54,7 @@
 
 <table align="center">
      <tr>
-        <h1 align="center">./HernaldoMeneses</h1>
+        <h3 align="center">./HernaldoMeneses</h3>
     </tr>
 </table>
 
