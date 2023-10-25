@@ -57,6 +57,8 @@ Where ther're Matrix Solutions there's no problem.
     </tr>
 </table>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/HernaldoMeneses/github-readme-stats)
+
 <hr></hr>
 
 
