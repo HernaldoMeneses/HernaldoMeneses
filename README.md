@@ -1,7 +1,25 @@
 # Matrix Business Solutions
 Where ther're Matrix Solutions there's no problem.
-<h2 align="left">./HernaldoMeneses</h2>
+<table align="left">
+    <tr>
+        <td align="center>
+            <h2 center="left">./HernaldoMeneses</h2>
+        </td>
+        <td>
+            <h5 align="left">whoami</h5>
+        </td>
+    </tr>
+</table>
 <h3 align="left">.Menu</h3>
+
+</table>
+<table align="left">
+    <tr>    
+        <td align"left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernaldoMeneses&theme=dracula&hide=html" alt="Top Languages" /></td>
+        <td align"center"><img src="https://github-readme-stats.vercel.app/api?username=HernaldoMeneses&theme=dracula&show_icons=true" atl="about me" /></td>
+    </tr>
+</table>
+
 
 <hr></hr>
 <table align="left">
@@ -34,7 +52,7 @@ Where ther're Matrix Solutions there's no problem.
         <img src="https://mmg.whatsapp.net/v/t61.43035-24/377282967_1350457819208741_2029462167614369286_n.jpg?ccb=1-7&_nc_sid=822144&_nc_ohc=dKGpCE4hIOsAX8Ojh-3&_nc_ad=z-m&_nc_cid=0&_nc_ht=mmg.whatsapp.net&oh=01_AdR9BLWulC-yWqTeoLFM2DJjA3YiDLCP28yGUm71oAQoRg&oe=653B3D37" alt="Descrição da imagem" style="max-width: 100%; height: auto;"> 
     </td>
     <td align="center">
-        <img src="https://i.pinimg.com/564x/04/03/dd/0403ddebc739a7f8f7baad4a491dd708.jpg" alt="Descrição da imagem" style="max-width: 100%; height: auto;"> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernaldoMeneses&theme=dracula&hide=html" alt="Top Languages" alt="Descrição da imagem" style="max-width: 100%; height: auto;"> 
     </td>
 </tr>
 </table>
@@ -61,7 +79,7 @@ Where ther're Matrix Solutions there's no problem.
 </table>
 <table align="left">
     <tr>    
-        <td align"left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernaldoMeneses&theme=dracula&hide=html" alt="Top Languages" /></td>td>
+        <td align"left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernaldoMeneses&theme=dracula&hide=html" alt="Top Languages" /></td>
         <td align"center"><img src="https://github-readme-stats.vercel.app/api?username=HernaldoMeneses&theme=dracula&show_icons=true" atl="about me" /></td>
     </tr>
 </table>
