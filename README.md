@@ -59,10 +59,9 @@ Where ther're Matrix Solutions there's no problem.
          <td align="center"><img src="https://camo.githubusercontent.com/d10e5aa8ba67f1eb109da4e98cd75adfa42df2e6019f8222cfa14c0088ac674d/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f707974686f6e2d6f726967696e616c2e737667" alt="Descrição da imagem" width=50 height=50 ></td>
     </tr>
 </table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernaldoMeneses&theme=dracula&hide=html" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=HernaldoMeneses&theme=dracula&show_icons=true" atl="about me" />
-< !--- --->
-<!---
-HernaldoMeneses/HernaldoMeneses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table align="left">
+    <tr>    
+        <td align"left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernaldoMeneses&theme=dracula&hide=html" alt="Top Languages" /></td>td>
+        <td align"center"><img src="https://github-readme-stats.vercel.app/api?username=HernaldoMeneses&theme=dracula&show_icons=true" atl="about me" /></td>
+    </tr>
+</table>
