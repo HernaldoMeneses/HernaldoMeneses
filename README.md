@@ -6,7 +6,7 @@ Where ther're Matrix Solutions there's no problem.
             <h2 center="left">./HernaldoMeneses</h2>
         </td>
         <td>
-            <h5 align="left" src="https://www.instagram.com/hernaldo_meneses/">whoami</h5>
+            <h5 align="left" ><a href="https://www.instagram.com/hernaldo_meneses/" target="_blank"> whoami</h5>
         </td>
     </tr>
 </table>
