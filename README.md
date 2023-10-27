@@ -63,13 +63,10 @@
     <tr> 
         <td align"left">
         <td align"center">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernaldoMeneses&theme=dracula&hide=html" alt="Top Languages"  width:100%; height:100%; style="max-width: 100%;"/>
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernaldoMeneses&theme=dracula&hide=html" alt="Top Languages"  width:100%; height:100%; style="max-width: 100%;"/>
         </td>
         <td>
         </td>
-       
-        <!--<td align"center"><img src="https://github-readme-stats.vercel.app/api?username=HernaldoMeneses&theme=dracula&show_icons=true" atl="about me" /></td>-->
-
     </tr>
 </table>
 
