@@ -21,10 +21,10 @@
             <h5 align="left" ><a href="https://github.com/HernaldoMeneses/System" target="_blank">System</h5>
         </td>
         <td>
-            <h5 align="left" ><a href="https://github.com/HernaldoMeneses/Data-Science" target="_blank">LineByLine</h5>
+            <h5 align="left" ><a href="https://github.com/HernaldoMeneses/Line" target="_blank">LineByLine</h5>
         </td>   
         <td>
-            <h5 align="left" ><a href="https://github.com/HernaldoMeneses/Data-Science" target="_blank">Marketing</h5>
+            <h5 align="left" ><a href="https://github.com/HernaldoMeneses/Marketing" target="_blank">Marketing</h5>
         </td>                 
     </tr>
 </table>
