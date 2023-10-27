@@ -63,8 +63,7 @@
     <tr> 
          <td>
             <img align="center" src="https://i.pinimg.com/564x/04/03/dd/0403ddebc739a7f8f7baad4a491dd708.jpg" alt="other"  width:100%; height:100%; style="max-width: 100%;"/>
-        </td>
-        <td align"left">
+         </td>
         <td align"center">
                 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernaldoMeneses&theme=dracula&hide=html" alt="Top Languages"  width:100%; height:100%; style="max-width: 100%;"/>
         </td>
