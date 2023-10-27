@@ -68,7 +68,7 @@
                 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernaldoMeneses&theme=dracula&hide=html" alt="Top Languages"  width:100%; height:100%; style="max-width: 100%;"/>
         </td>
         <td>
-            <img align="center" src="https://i.pinimg.com/564x/04/03/dd/0403ddebc739a7f8f7baad4a491dd708.jpg" alt="other"  width:100%; height:100%; style="max-width: 100%;"/>
+            <img align="center" src="https://i.pinimg.com/736x/b8/a2/69/b8a2691652727c667d77e2d8cea6bf33.jpg" alt="other"  width:50%; height:50%; style="max-width: 50%;"/>
         </td>
     </tr>
 </table>
