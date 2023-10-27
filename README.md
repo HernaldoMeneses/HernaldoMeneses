@@ -23,6 +23,9 @@
         <td>
             <h5 align="left" ><a href="https://github.com/HernaldoMeneses/Data-Science" target="_blank">LineByLine</h5>
         </td>   
+        <td>
+            <h5 align="left" ><a href="https://github.com/HernaldoMeneses/Data-Science" target="_blank">Marketing</h5>
+        </td>                 
     </tr>
 </table>
 
@@ -63,7 +66,6 @@
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernaldoMeneses&theme=dracula&hide=html" alt="Top Languages"  width:100%; height:100%; style="max-width: 100%;"/>
         </td>
         <td>
-                <h2>./HMeneses</h2>
         </td>
        
         <!--<td align"center"><img src="https://github-readme-stats.vercel.app/api?username=HernaldoMeneses&theme=dracula&show_icons=true" atl="about me" /></td>-->
