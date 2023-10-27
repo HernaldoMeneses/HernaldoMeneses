@@ -12,7 +12,7 @@
             <h5 align="left" ><a href="https://github.com/HernaldoMeneses/Data-Science" target="_blank">Leaning</h5>
         </td>    
                         <td>
-            <h5 align="left" ><a href="https://github.com/HernaldoMeneses/Data-Science" target="_blank">Data Since</h5>
+            <h5 align="left" ><a href="https://github.com/HernaldoMeneses/Data-Science" target="_blank">Data-Science</h5>
         </td>   
                         <td>
             <h5 align="left" ><a href="https://github.com/HernaldoMeneses/Data-Science" target="_blank">Cyber Security</h5>
