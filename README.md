@@ -9,7 +9,7 @@
             <h2 align="left" ><a href="https://www.instagram.com/hernaldo_meneses/" target="_blank"> ./HernaldoMeneses</h2>
         </td>
         <td>
-            <h5 align="left" ><a href="https://github.com/HernaldoMeneses/Data-Science" target="_blank">Learning</h5>
+            <h5 align="left" ><a href="https://github.com/HernaldoMeneses/Learning" target="_blank">Learning</h5>
         </td>    
         <td>
             <h5 align="left" ><a href="https://github.com/HernaldoMeneses/Data-Science" target="_blank">Data-Science</h5>
