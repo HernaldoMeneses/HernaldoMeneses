@@ -51,13 +51,17 @@
 <table>
     <tr>
         <td align="center">
-            <img src="https://i.pinimg.com/564x/04/03/dd/0403ddebc739a7f8f7baad4a491dd708.jpg" alt="Descrição da imagem" style="max-width: 100%; height: auto;"> 
+            <img align="center" src="https://i.pinimg.com/564x/04/03/dd/0403ddebc739a7f8f7baad4a491dd708.jpg" alt="other"  width:100%; height:100%; style="max-width: 100%;"/>
+            <!-- <img src="https://i.pinimg.com/564x/04/03/dd/0403ddebc739a7f8f7baad4a491dd708.jpg" alt="Descrição da imagem" style="max-width: 100%; height: auto;"> 
+               -->
         </td>  
         <td align="center">
             <img src="https://mmg.whatsapp.net/v/t61.43035-24/377282967_1350457819208741_2029462167614369286_n.jpg?ccb=1-7&_nc_sid=822144&_nc_ohc=dKGpCE4hIOsAX8Ojh-3&_nc_ad=z-m&_nc_cid=0&_nc_ht=mmg.whatsapp.net&oh=01_AdR9BLWulC-yWqTeoLFM2DJjA3YiDLCP28yGUm71oAQoRg&oe=653B3D37" alt="Descrição da imagem" style="max-width: 100%; height: auto;"> 
         </td>
         <td align="center">
-            <img src="https://i.pinimg.com/564x/04/03/dd/0403ddebc739a7f8f7baad4a491dd708.jpg" alt="Top Languages" alt="Descrição da imagem" style="max-width: 100%; height: auto;"> 
+            <img align="center" src="https://i.pinimg.com/736x/b8/a2/69/b8a2691652727c667d77e2d8cea6bf33.jpg" alt="other"  width:50%; height:50%; style="max-width: 50%;"/>
+           <!-- <img src="https://i.pinimg.com/564x/04/03/dd/0403ddebc739a7f8f7baad4a491dd708.jpg" alt="Top Languages" alt="Descrição da imagem" style="max-width: 100%; height: auto;"> 
+           -->
         </td>
     </tr>
     <tr> 
