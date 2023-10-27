@@ -6,7 +6,7 @@
 <table align="left">
     <tr>
         <td align="center>
-            <h2 center="left">./HernaldoMeneses</h2>
+            <h2 align="left" ><a href="https://www.instagram.com/hernaldo_meneses/" target="_blank"> ./HernaldoMeneses</h2>
         </td>
         <td>
             <h5 align="left" ><a href="https://www.instagram.com/hernaldo_meneses/" target="_blank"> whoami</h5>
