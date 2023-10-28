@@ -50,16 +50,9 @@
 <!--- Incio tabela central --->
 <table>
     <tr>
-        <td align="center">
-            <img align="center" src="https://i.pinimg.com/564x/04/03/dd/0403ddebc739a7f8f7baad4a491dd708.jpg" alt="other"  width:100%; height:100%; style="max-width: 100%;"/>
-            <!-- <img src="https://i.pinimg.com/564x/04/03/dd/0403ddebc739a7f8f7baad4a491dd708.jpg" alt="Descrição da imagem" style="max-width: 100%; height: auto;"> 
-               -->
-        </td>  
-        <td align="center">
-            <img align="center" src="https://i.pinimg.com/originals/cf/00/04/cf00047d5f6a317e7b40842c8a7d7728.png" alt="other"  width:50%; height:50%; style="max-width: 50%;"/>
-           <!-- <img src="https://i.pinimg.com/564x/04/03/dd/0403ddebc739a7f8f7baad4a491dd708.jpg" alt="Top Languages" alt="Descrição da imagem" style="max-width: 100%; height: auto;"> 
-           -->
-        </td>
+       <img align="center" src="https://i.pinimg.com/originals/b4/c2/c0/b4c2c0ab94c84c54deeeff4044a750fb.jpg" alt="other"  width:100%; height:100%; style="max-width: 100%;"/>
+    </tr>
+    <tr>
     </tr>
     <tr> 
         <td align"center">
