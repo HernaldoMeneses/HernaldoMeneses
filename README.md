@@ -18,27 +18,10 @@
 
 <!-- Usando HTML para links com ícones -->
 <p>
-  <a href="https://www.linkedin.com/in/seu-linkedin">LinkedIn</a> |
-  <a href="https://twitter.com/seu-twitter">Twitter</a>
+  <a href="https://www.linkedin.com/in/hernaldo-meneses-9662a9262/">LinkedIn</a>
 </p>
 
 
 
-# Bem-vindo ao Meu Perfil
 
-![Minha Foto de Perfil](https://example.com/minha-foto.jpg)
-
-## Sobre Mim
-
-Sou um desenvolvedor apaixonado por tecnologia e inovação...
-
-## Projetos Recentes
-
-- [Projeto 1](link)
-- [Projeto 2](link)
-
-## Contato
-
-- [LinkedIn](link)
-- [Twitter](link)
 
