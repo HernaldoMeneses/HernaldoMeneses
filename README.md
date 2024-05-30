@@ -1,7 +1,7 @@
 # Bem-vindo ao Meu Perfil
 
 <!-- Usando HTML para adicionar uma imagem -->
-<img src="./trix1.jpg" alt="Minha Foto de Perfil" width="200">
+<img src="./trix1.jpg" alt="Minha Foto de Perfil" width="200" height="200">
 
 ## Sobre Mim
 
