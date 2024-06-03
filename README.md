@@ -13,6 +13,18 @@
   
   <p></p>
   <li><a href="">Projeto 3 - Guia Completo Linux com Bash Script</a></li>
+
+  <p></p>
+  <li><a href="">Projeto 4 - Estatística para Machine Learning</a></li>
+
+  <p></p>
+  <li><a href="">Projeto 5 - Matemática para Machine Learning</a></li>
+
+  <p></p>
+  <li><a href="">Projeto 6 - Learning English</a></li>
+
+  <p></p>
+  <li><a href="">Projeto 7 - Português</a></li>
   
 </ul>
 
