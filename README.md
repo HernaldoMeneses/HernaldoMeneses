@@ -1,17 +1,19 @@
-# Bem-vindo ao Meu Perfil
+# Bem-vindo
 
-<!-- Usando HTML para adicionar uma imagem -->
-<img src="./trix1-capa.jpg" alt="Minha Foto de Perfil">
+<!-- Usando HTML para adicionar uma imagem 
+<img src="./trix1-capa.jpg" alt="Minha Foto de Perfil">-->
 
-## Sobre Mim
+## Sobre
 
-<p>Sou um desenvolvedor apaixonado por tecnologia e inovação. Trabalho com várias tecnologias e adoro aprender coisas novas.</p>
+<p>Uma plataforma em constante desenvolvimento.</p>
+<p>Atualmente estamos desenvolvendo e aprimorando livros dinâmicos dos mais variados temas.</p>
+<p></p>
 
 ## Projetos Recentes
 
 <ul>
-  <li><a href="https://github.com/username/projeto1">Projeto 1</a></li>
-  <li><a href="https://github.com/username/projeto2">Projeto 2</a></li>
+  <li><a href="https://github.com/HernaldoMeneses/C/blob/main/README.md">Projeto 1 - Guia Completo da Linguagem de programação C para Desenvolvedores</a></li>
+  <li><a href="">Projeto 2 - structure query language (sql) para Analistas</a></li>
 </ul>
 
 ## Contato
