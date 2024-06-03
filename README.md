@@ -7,7 +7,7 @@
 
 <ul>
   <li><a href="https://github.com/HernaldoMeneses/C/blob/main/README.md">Projeto 1 - Guia Completo da Linguagem de programação C para Desenvolvedores</a></li>
-  <li><a href="">Projeto 2 - structure query language (sql) para Analistas</a></li>
+  <li><a href="">Projeto 2 - Structure Query Language (sql) para Analistas</a></li>
 </ul>
 
 ## Contato
