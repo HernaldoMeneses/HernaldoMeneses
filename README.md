@@ -7,8 +7,13 @@
 
 <ul>
   <li><a href="https://github.com/HernaldoMeneses/C/blob/main/README.md">Projeto 1 - Guia Completo da Linguagem de programação C para Desenvolvedores</a></li>
+  
   <p></p>
   <li><a href="">Projeto 2 - Structure Query Language (sql) para Analistas</a></li>
+  
+  <p></p>
+  <li><a href="">Projeto 3 - Guia Completo Linux com Bash Script</a></li>
+  
 </ul>
 
 ## Contato
