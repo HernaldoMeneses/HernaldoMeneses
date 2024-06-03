@@ -3,12 +3,6 @@
 <!-- Usando HTML para adicionar uma imagem 
 <img src="./trix1-capa.jpg" alt="Minha Foto de Perfil">-->
 
-## Sobre
-
-<p>Uma plataforma em constante desenvolvimento.</p>
-<p>Atualmente estamos desenvolvendo e aprimorando livros dinâmicos dos mais variados temas.</p>
-<p></p>
-
 ## Projetos Recentes
 
 <ul>
