@@ -11,7 +11,7 @@
   <p></p>
   <li><a href="">Projeto 2 - Structure Query Language (sql) para Analistas</a></li>
   
-  <p></p>
+  <!--<p></p>
   <li><a href="">Projeto 3 - Guia Completo Linux com Bash Script</a></li>
 
   <p></p>
@@ -24,7 +24,7 @@
   <li><a href="">Projeto 6 - Learning English</a></li>
 
   <p></p>
-  <li><a href="">Projeto 7 - Português</a></li>
+  <li><a href="">Projeto 7 - Português</a></li>-->
   
 </ul>
 
